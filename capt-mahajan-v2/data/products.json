@@ -1,0 +1,41 @@
+[
+  { "id": 1, "name": "Tiles 1", "category": "tiles", "image": "https://i.ibb.co/21rvNJ8m/IMG-20260614-WA0059.jpg", "description": "Tiles sample" },
+  { "id": 2, "name": "Tiles 2", "category": "tiles", "image": "https://i.ibb.co/pvYZm7F1/IMG-20260614-WA0066.jpg", "description": "Tiles sample" },
+  { "id": 3, "name": "Tiles 3", "category": "tiles", "image": "https://i.ibb.co/pr1qqpZt/IMG-20260614-WA0067.jpg", "description": "Tiles sample" },
+  { "id": 4, "name": "Tiles 4", "category": "tiles", "image": "https://i.ibb.co/NgmTd7bJ/IMG-20260614-WA0055.jpg", "description": "Tiles sample" },
+  { "id": 5, "name": "Tiles 5", "category": "tiles", "image": "https://i.ibb.co/ymt1v13R/IMG-20260614-WA0054.jpg", "description": "Tiles sample" },
+  { "id": 6, "name": "Tiles 6", "category": "tiles", "image": "https://i.ibb.co/hJTjChZT/IMG-20260614-WA0051.jpg", "description": "Tiles sample" },
+  { "id": 7, "name": "Tiles 7", "category": "tiles", "image": "https://i.ibb.co/VYFTbg1w/IMG-20260614-WA0043.jpg", "description": "Tiles sample" },
+  { "id": 8, "name": "Tiles 8", "category": "tiles", "image": "https://i.ibb.co/HfBdDKLB/IMG-20260614-WA0038.jpg", "description": "Tiles sample" },
+  { "id": 9, "name": "Tiles 9", "category": "tiles", "image": "https://i.ibb.co/5WXH9Lxf/IMG-20260614-WA0027.jpg", "description": "Tiles sample" },
+  { "id": 10, "name": "Tiles 10", "category": "tiles", "image": "https://i.ibb.co/27DjJqC7/IMG-20260614-WA0021.jpg", "description": "Tiles sample" },
+  { "id": 11, "name": "Tiles 11", "category": "tiles", "image": "https://i.ibb.co/5WXH9Lxf/IMG-20260614-WA0027.jpg", "description": "Tiles sample (duplicate)" },
+  { "id": 12, "name": "Tiles 12", "category": "tiles", "image": "https://i.ibb.co/v6XTCt31/IMG-20260614-WA0017.jpg", "description": "Tiles sample" },
+  { "id": 13, "name": "Tiles 13", "category": "tiles", "image": "https://i.ibb.co/hFYssNNR/IMG-20260614-WA0000.jpg", "description": "Tiles sample" },
+  { "id": 14, "name": "Tiles 14", "category": "tiles", "image": "https://i.ibb.co/39tcmjm5/IMG-20260614-WA0008.jpg", "description": "Tiles sample" },
+  { "id": 15, "name": "Tiles 15", "category": "tiles", "image": "https://i.ibb.co/NnCnFJb4/IMG-20260614-WA0015.jpg", "description": "Tiles sample" },
+
+  { "id": 16, "name": "Kota Stone 1", "category": "kota-stone", "image": "https://i.ibb.co/20kQ0b96/IMG-20260614-WA0040.jpg", "description": "Kota stone" },
+  { "id": 17, "name": "Kota Stone 2", "category": "kota-stone", "image": "https://i.ibb.co/s97kTJfx/IMG-20260614-WA0036.jpg", "description": "Kota stone" },
+  { "id": 18, "name": "Kota Stone 3", "category": "kota-stone", "image": "https://i.ibb.co/qKQTZhR/IMG-20260614-WA0035.jpg", "description": "Kota stone" },
+  { "id": 19, "name": "Kota Stone 4", "category": "kota-stone", "image": "https://i.ibb.co/BHVVg4FH/IMG-20260614-WA0001.jpg", "description": "Kota stone" },
+  { "id": 20, "name": "Kota Stone 5", "category": "kota-stone", "image": "https://i.ibb.co/20BB73m7/IMG-20260614-WA0003.jpg", "description": "Kota stone" },
+  { "id": 21, "name": "Kota Stone 6", "category": "kota-stone", "image": "https://i.ibb.co/HDP4mj9N/IMG-20260614-WA0004.jpg", "description": "Kota stone" },
+  { "id": 22, "name": "Kota Stone 7", "category": "kota-stone", "image": "https://i.ibb.co/7ttPrSjr/IMG-20260614-WA0005.jpg", "description": "Kota stone" },
+  { "id": 23, "name": "Kota Stone 8", "category": "kota-stone", "image": "https://i.ibb.co/bMLNBg9h/IMG-20260614-WA0006.jpg", "description": "Kota stone" },
+
+  { "id": 24, "name": "Granite 1", "category": "granite", "image": "https://i.ibb.co/GQBrG5fw/IMG-20260614-WA0062.jpg", "description": "Granite" },
+  { "id": 25, "name": "Granite 2", "category": "granite", "image": "https://i.ibb.co/gLvLqCW7/IMG-20260614-WA0049.jpg", "description": "Granite" },
+  { "id": 26, "name": "Granite 3", "category": "granite", "image": "https://i.ibb.co/9kgGcj4r/IMG-20260614-WA0031.jpg", "description": "Granite" },
+  { "id": 27, "name": "Granite 4", "category": "granite", "image": "https://i.ibb.co/35Pq4thf/IMG-20260614-WA0029.jpg", "description": "Granite" },
+  { "id": 28, "name": "Granite 5", "category": "granite", "image": "https://i.ibb.co/xtL1CLWm/IMG-20260614-WA0018.jpg", "description": "Granite" },
+
+  { "id": 29, "name": "Marble 1", "category": "marble", "image": "https://i.ibb.co/VFq94hp/IMG-20260614-WA0077.jpg", "description": "Marble" },
+  { "id": 30, "name": "Marble 2", "category": "marble", "image": "https://i.ibb.co/7t8TKG7W/IMG-20260614-WA0075.jpg", "description": "Marble" },
+  { "id": 31, "name": "Marble 3", "category": "marble", "image": "https://i.ibb.co/21QzWWFV/IMG-20260614-WA0072.jpg", "description": "Marble" },
+  { "id": 32, "name": "Marble 4", "category": "marble", "image": "https://i.ibb.co/RGG0wFyZ/IMG-20260614-WA0068.jpg", "description": "Marble" },
+  { "id": 33, "name": "Marble 5", "category": "marble", "image": "https://i.ibb.co/PvwZgsyH/IMG-20260614-WA0076.jpg", "description": "Marble" },
+  { "id": 34, "name": "Marble 6", "category": "marble", "image": "https://i.ibb.co/21QzWWFV/IMG-20260614-WA0072.jpg", "description": "Marble (duplicate)" },
+
+  { "id": 35, "name": "Sink", "category": "stone-articles", "image": "https://i.ibb.co/0jJ6rVCQ/sink.jpg", "description": "Sink / other article" }
+]

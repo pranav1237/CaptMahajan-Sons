@@ -1,0 +1,29 @@
+{
+  "name": "capt-mahajan-v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node ./scripts/start-dev.js",
+    "build": "next build",
+    "start": "next start",
+    "download-images": "node ./scripts/download-images.js"
+    ,
+    "generate-sitemap": "node ./scripts/generate-sitemap.js"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^10.0.0",
+    "next": "15.0.0",
+    "postcss": "^8.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.4.0",
+    "zustand": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "25.9.3",
+    "@types/react": "19.2.17",
+    "typescript": "^5.0.0"
+  }
+}

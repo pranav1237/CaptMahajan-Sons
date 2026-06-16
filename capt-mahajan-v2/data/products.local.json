@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "name": "Tiles 1",
+    "category": "tiles",
+    "image": "/products/1.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 2,
+    "name": "Tiles 2",
+    "category": "tiles",
+    "image": "/products/2.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 3,
+    "name": "Tiles 3",
+    "category": "tiles",
+    "image": "/products/3.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 4,
+    "name": "Tiles 4",
+    "category": "tiles",
+    "image": "/products/4.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 5,
+    "name": "Tiles 5",
+    "category": "tiles",
+    "image": "/products/5.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 6,
+    "name": "Tiles 6",
+    "category": "tiles",
+    "image": "/products/6.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 7,
+    "name": "Tiles 7",
+    "category": "tiles",
+    "image": "/products/7.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 8,
+    "name": "Tiles 8",
+    "category": "tiles",
+    "image": "/products/8.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 9,
+    "name": "Tiles 9",
+    "category": "tiles",
+    "image": "/products/9.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 10,
+    "name": "Tiles 10",
+    "category": "tiles",
+    "image": "/products/10.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 11,
+    "name": "Tiles 11",
+    "category": "tiles",
+    "image": "/products/11.jpg",
+    "description": "Tiles sample (duplicate)"
+  },
+  {
+    "id": 12,
+    "name": "Tiles 12",
+    "category": "tiles",
+    "image": "/products/12.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 13,
+    "name": "Tiles 13",
+    "category": "tiles",
+    "image": "/products/13.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 14,
+    "name": "Tiles 14",
+    "category": "tiles",
+    "image": "/products/14.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 15,
+    "name": "Tiles 15",
+    "category": "tiles",
+    "image": "/products/15.jpg",
+    "description": "Tiles sample"
+  },
+  {
+    "id": 16,
+    "name": "Kota Stone 1",
+    "category": "kota-stone",
+    "image": "/products/16.jpg",
+    "description": "Kota stone"
+  },
+  {
+    "id": 17,
+    "name": "Kota Stone 2",
+    "category": "kota-stone",
+    "image": "/products/17.jpg",
+    "description": "Kota stone"
+  },
+  {
+    "id": 18,
+    "name": "Kota Stone 3",
+    "category": "kota-stone",
+    "image": "/products/18.jpg",
+    "description": "Kota stone"
+  },
+  {
+    "id": 19,
+    "name": "Kota Stone 4",
+    "category": "kota-stone",
+    "image": "/products/19.jpg",
+    "description": "Kota stone"
+  },
+  {
+    "id": 20,
+    "name": "Kota Stone 5",
+    "category": "kota-stone",
+    "image": "/products/20.jpg",
+    "description": "Kota stone"
+  },
+  {
+    "id": 21,
+    "name": "Kota Stone 6",
+    "category": "kota-stone",
+    "image": "/products/21.jpg",
+    "description": "Kota stone"
+  },
+  {
+    "id": 22,
+    "name": "Kota Stone 7",
+    "category": "kota-stone",
+    "image": "/products/22.jpg",
+    "description": "Kota stone"
+  },
+  {
+    "id": 23,
+    "name": "Kota Stone 8",
+    "category": "kota-stone",
+    "image": "/products/23.jpg",
+    "description": "Kota stone"
+  },
+  {
+    "id": 24,
+    "name": "Granite 1",
+    "category": "granite",
+    "image": "/products/24.jpg",
+    "description": "Granite"
+  },
+  {
+    "id": 25,
+    "name": "Granite 2",
+    "category": "granite",
+    "image": "/products/25.jpg",
+    "description": "Granite"
+  },
+  {
+    "id": 26,
+    "name": "Granite 3",
+    "category": "granite",
+    "image": "/products/26.jpg",
+    "description": "Granite"
+  },
+  {
+    "id": 27,
+    "name": "Granite 4",
+    "category": "granite",
+    "image": "/products/27.jpg",
+    "description": "Granite"
+  },
+  {
+    "id": 28,
+    "name": "Granite 5",
+    "category": "granite",
+    "image": "/products/28.jpg",
+    "description": "Granite"
+  },
+  {
+    "id": 29,
+    "name": "Marble 1",
+    "category": "marble",
+    "image": "/products/29.jpg",
+    "description": "Marble"
+  },
+  {
+    "id": 30,
+    "name": "Marble 2",
+    "category": "marble",
+    "image": "/products/30.jpg",
+    "description": "Marble"
+  },
+  {
+    "id": 31,
+    "name": "Marble 3",
+    "category": "marble",
+    "image": "/products/31.jpg",
+    "description": "Marble"
+  },
+  {
+    "id": 32,
+    "name": "Marble 4",
+    "category": "marble",
+    "image": "/products/32.jpg",
+    "description": "Marble"
+  },
+  {
+    "id": 33,
+    "name": "Marble 5",
+    "category": "marble",
+    "image": "/products/33.jpg",
+    "description": "Marble"
+  },
+  {
+    "id": 34,
+    "name": "Marble 6",
+    "category": "marble",
+    "image": "/products/34.jpg",
+    "description": "Marble (duplicate)"
+  },
+  {
+    "id": 35,
+    "name": "Sink",
+    "category": "stone-articles",
+    "image": "/products/35.jpg",
+    "description": "Sink / other article"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "KotaStone",
+    "slug": "kota-stone",
+    "image": "/categories/kota.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Granite",
+    "slug": "granite",
+    "image": "/categories/granite.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Marble",
+    "slug": "marble",
+    "image": "/categories/marble.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tiles",
+    "slug": "tiles",
+    "image": "/categories/tiles.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Others",
+    "slug": "others",
+    "image": "/categories/others.jpg"
+  }
+]
