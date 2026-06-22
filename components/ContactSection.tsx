@@ -1,6 +1,5 @@
 "use client"
 import React, { useState } from 'react'
-import emailjs from 'emailjs-com'
 import { sendOrderEmail } from '../lib/emailjs'
 
 export default function ContactSection() {

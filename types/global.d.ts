@@ -1,5 +1,4 @@
 declare module 'framer-motion'
-declare module 'emailjs-com'
 declare module 'node-fetch'
 declare module 'react'
 declare module 'react/jsx-runtime'
