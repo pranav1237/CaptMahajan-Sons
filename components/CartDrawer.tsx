@@ -69,26 +69,26 @@ export default function CartDrawer() {
                   }
                   setSending(true)
                   try {
-                    const res = await fetch('/api/send-order', {
-                      method: 'POST',
-                      headers: { 'Content-Type': 'application/json' },
-                      body: JSON.stringify({ name, phone, items })
-                    })
-                    const data = await res.json()
-                    if (data.ok) {
-                      // open WhatsApp with formatted message
-                      const lines = [`Hello Capt. Mahajan & Sons,`, `Customer Name: ${name}`, `Phone: ${phone}`, ``, `Interested Products:`]
+                    // Build WhatsApp message with order details
+                    const lines = [
+                      `Hello Capt. Mahajan & Sons,`,
+                      `Customer Name: ${name}`,
+                      `Phone: ${phone}`,
+                      ``,
+                      `Interested Products:`
+                    ]
+                    if (items.length > 0) {
                       items.forEach((it: any) => lines.push(`- ${it.name} x${it.qty}`))
-                      lines.push('', 'Please contact me.')
-                      const wa = `https://wa.me/9784853101?text=${encodeURIComponent(lines.join('\n'))}`
-                      window.open(wa, '_blank')
-                      toggle(false)
                     } else {
-                      alert('Failed to send order')
+                      lines.push('- General inquiry (no specific product selected)')
                     }
+                    lines.push('', 'Please contact me.')
+                    const wa = `https://wa.me/919784853101?text=${encodeURIComponent(lines.join('\n'))}`
+                    window.open(wa, '_blank')
+                    toggle(false)
                   } catch (err) {
                     console.error(err)
-                    alert('Failed to send order')
+                    alert('Failed to open WhatsApp. Please try again.')
                   } finally {
                     setSending(false)
                   }
@@ -96,7 +96,7 @@ export default function CartDrawer() {
                 disabled={sending}
                 className="w-full bg-green-600 text-white py-2 rounded disabled:opacity-60"
               >
-                {sending ? 'Sending...' : 'Send Order'}
+                {sending ? 'Opening WhatsApp...' : 'Send Order'}
               </button>
             </div>
           </div>
