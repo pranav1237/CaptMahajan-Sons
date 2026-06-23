@@ -130,7 +130,7 @@ The project is already configured with your EmailJS credentials:
 2. Form validates customer name & phone
 3. Cart items are sent to EmailJS API
 4. Email is received at `chander151973@gmail.com`
-5. WhatsApp web link opens with order summary (number: `9784853101`)
+5. WhatsApp web link opens with order summary (number: `9785843101`)
 
 ### Testing Locally
 ```bash
@@ -138,7 +138,7 @@ curl -X POST http://localhost:3000/api/send-order \
   -H "Content-Type: application/json" \
   -d '{
     "name": "Test Customer",
-    "phone": "9784853101",
+    "phone": "9785843101",
     "items": [{"id": 1, "name": "Stone", "qty": 1}]
   }'
 ```
@@ -226,26 +226,26 @@ Example: `www.captmahajan.com` → Vercel deployment
 ## 📱 WhatsApp Integration
 
 ### Configuration
-- **WhatsApp Number:** `9784853101` (defined in components)
+- **WhatsApp Number:** `9785843101` (defined in components)
 - **Contact Button:** Floating green button (bottom-right, all pages)
-- **Direct Link:** `https://wa.me/9784853101`
+- **Direct Link:** `https://wa.me/9785843101`
 
 ### Customize Number
 To change the WhatsApp number:
 
 1. **WhatsAppButton.tsx:**
 ```tsx
-const number = '9784853101'  // Change here
+const number = '9785843101'  // Change here
 ```
 
 2. **CartDrawer.tsx** (order submission):
 ```tsx
-const wa = `https://wa.me/9784853101?text=...`  // Change here
+const wa = `https://wa.me/9785843101?text=...`  // Change here
 ```
 
 3. **ContactSection.tsx** (inquiry form):
 ```tsx
-const wa = `https://wa.me/9784853101?text=...`  // Change here
+const wa = `https://wa.me/9785843101?text=...`  // Change here
 ```
 
 ---
@@ -365,8 +365,8 @@ const useCart = create(persist(() => ({...})))
 
 ### Issue: WhatsApp link not opening
 **Solution:**
-1. Ensure number format is correct: `9784853101` (no + or spaces)
-2. Test link: `https://wa.me/9784853101`
+1. Ensure number format is correct: `9785843101` (no + or spaces)
+2. Test link: `https://wa.me/9785843101`
 3. User must have WhatsApp Web enabled
 
 ---
@@ -390,7 +390,7 @@ const useCart = create(persist(() => ({...})))
 
 ## 📞 Support Contacts
 
-**WhatsApp:** 9784853101  
+**WhatsApp:** 9785843101  
 **Email:** chander151973@gmail.com  
 **Website:** (Vercel deployment URL)
 
@@ -405,7 +405,7 @@ This project is proprietary. All rights reserved by Capt. Mahajan & Sons.
 ## ✅ Checklist Before Going Live
 
 - [ ] Update EmailJS credentials in Vercel environment variables
-- [ ] Update WhatsApp number (if different from 9784853101)
+- [ ] Update WhatsApp number (if different from 9785843101)
 - [ ] Update business name/description in metadata
 - [ ] Test order submission flow (cart → email → WhatsApp)
 - [ ] Test WhatsApp contact button
