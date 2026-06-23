@@ -6,14 +6,13 @@
     "dev": "node ./scripts/start-dev.js",
     "build": "next build",
     "start": "next start",
-    "download-images": "node ./scripts/download-images.js"
-    ,
+    "download-images": "node ./scripts/download-images.js",
     "generate-sitemap": "node ./scripts/generate-sitemap.js"
   },
   "dependencies": {
     "autoprefixer": "^10.4.0",
     "framer-motion": "^10.0.0",
-    "next": "15.5.18",
+    "next": "^16.2.9",
     "postcss": "^8.4.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
