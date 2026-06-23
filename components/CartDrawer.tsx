@@ -83,7 +83,7 @@ export default function CartDrawer() {
                       lines.push('- General inquiry (no specific product selected)')
                     }
                     lines.push('', 'Please contact me.')
-                    const wa = `https://wa.me/919784853101?text=${encodeURIComponent(lines.join('\n'))}`
+                    const wa = `https://wa.me/919785843101?text=${encodeURIComponent(lines.join('\n'))}`
                     window.open(wa, '_blank')
                     toggle(false)
                   } catch (err) {
